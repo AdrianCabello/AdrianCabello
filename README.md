@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Adrian Cabello!  
 
-<!--
-**AdrianCabello/AdrianCabello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior Frontend Developer | Angular Specialist**  
+With **8+ years of experience** building scalable applications using **Angular (2-17)**, TypeScript, and modern web technologies.  
 
-Here are some ideas to get you started:
+💡 Passionate about **clean architecture, high test coverage, and performance**.  
+🤝 Love **mentoring, leading teams, and sharing knowledge**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Frontend:** Angular, TypeScript, JavaScript  
+- **Backend:** Node.js, NestJS, Express  
+- **Databases:** MongoDB, PostgreSQL  
+- **Testing:** Jasmine, Karma, Jest, Cypress  
+
+## 📈 Recent Projects
+- **Scanntech** (2024 - Present) - Angular 17 Dashboard  
+- **Mercer (Halo Powered)** (2022 - 2024) - AI-powered Q&A and Chatbot  
+- **Cognizant Softvision | EY Global Tax Platform** (2021)  
+
+## 📫 Connect with me!
+📍 Necochea, Buenos Aires, Argentina  
+🌐 [Portfolio](https://landicandeladev.netlify.app/)  
+🐙 [GitHub](https://github.com/)  
+💼 [LinkedIn](https://linkedin.com/in/)  
+📧 [c.adriancabello@gmail.com](mailto:c.adriancabello@gmail.com)  
