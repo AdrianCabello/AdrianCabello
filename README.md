@@ -15,7 +15,12 @@ With **8+ years of experience** building scalable applications using **Angular (
 ## 📈 Recent Projects
 - **Scanntech** (2024 - Present) - Angular 17 Dashboard  
 - **Mercer (Halo Powered)** (2022 - 2024) - AI-powered Q&A and Chatbot  
-- **Cognizant Softvision | EY Global Tax Platform** (2021)  
+- **Cognizant Softvision | EY Global Tax Platform** (2021)
+
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1;">
+        <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nahuelfd10&theme=dark&hide_border=true" alt="GitHub Streak" /></a></p>
+</div>
 
 ## 📫 Connect with me!
 📍 Necochea, Buenos Aires, Argentina  
