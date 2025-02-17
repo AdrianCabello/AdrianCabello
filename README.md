@@ -17,8 +17,6 @@ With **8+ years of experience** building scalable applications using **Angular (
 - **Mercer (Halo Powered)** (2022 - 2024) - AI-powered Q&A and Chatbot  
 - **Cognizant Softvision | EY Global Tax Platform** (2021)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AdrianCabello" alt="GitHub Streak" /></a>
-
 ## 📫 Connect with me!
 📍 Necochea, Buenos Aires, Argentina  
 💼 [LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/adrian-cabello-b07290b8/))  
