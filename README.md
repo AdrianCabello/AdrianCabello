@@ -19,7 +19,7 @@ With **8+ years of experience** building scalable applications using **Angular (
 
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;">
-        <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nahuelfd10&theme=dark&hide_border=true" alt="GitHub Streak" /></a></p>
+        <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AdrianCabello&theme=dark&hide_border=true" alt="GitHub Streak" /></a></p>
 </div>
 
 ## 📫 Connect with me!
