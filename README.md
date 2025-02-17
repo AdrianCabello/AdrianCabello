@@ -19,7 +19,5 @@ With **8+ years of experience** building scalable applications using **Angular (
 
 ## 📫 Connect with me!
 📍 Necochea, Buenos Aires, Argentina  
-🌐 [Portfolio](https://landicandeladev.netlify.app/)  
-🐙 [GitHub](https://github.com/)  
-💼 [LinkedIn](https://linkedin.com/in/)  
+💼 [LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/adrian-cabello-b07290b8/))  
 📧 [c.adriancabello@gmail.com](mailto:c.adriancabello@gmail.com)  
