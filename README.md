@@ -16,27 +16,13 @@ Senior Frontend Developer and Tech Leader with 8+ years of experience, specializ
 
 ```javascript
 const skills = {
-    frontend: ['Angular', 'TypeScript', 'JavaScript', 'HTML5', 'CSS3', 'SCSS'],
-    testing: ['Jasmine', 'Karma', 'Jest', 'Cypress'],
-    tools: ['Git', 'VS Code', 'Docker', 'Jira'],
+    frontend: ['Angular', 'TypeScript', 'JavaScript', 'Tailwind', 'CSS3', 'HTML5'],
+    testing: ['Jasmine', 'Karma', 'Jest'],
+    tools: ['Git', 'Cursor', 'Docker', 'Jira', 'Clickup'],
     architecture: ['Clean Architecture', 'SOLID', 'Design Patterns'],
     methodologies: ['Agile', 'Scrum', 'TDD']
 };
 ```
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianCabello&show_icons=true&theme=tokyonight)](https://github.com/AdrianCabello)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCabello&layout=compact&theme=tokyonight)](https://github.com/AdrianCabello)
-
-[![Website](https://img.shields.io/badge/Website-adriancabello.dev-blue?style=flat-square&logo=google-chrome)](https://adriancabello.dev)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrian_Cabello-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/adrian-cabello)
-
-</div>
 
 ## 🌟 Featured Projects
 
