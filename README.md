@@ -1,12 +1,5 @@
 # 👋 Hi, I'm Adrian Cabello
 
-<div align="center">
-  <img src="https://adriancabello.dev/assets/images/ghibli.jpeg" alt="Adrian Cabello" width="200" style="border-radius: 50%;" />
-  
-  [![Website](https://img.shields.io/badge/Website-adriancabello.dev-blue?style=flat-square&logo=google-chrome)](https://adriancabello.dev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrian_Cabello-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/adrian-cabello)
-</div>
-
 ## 👨‍💻 About Me
 
 Senior Frontend Developer and Tech Leader with 8+ years of experience, specializing in Angular and modern web technologies. I'm passionate about building scalable applications with clean architecture and high test coverage.
@@ -38,6 +31,10 @@ const skills = {
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianCabello&show_icons=true&theme=tokyonight)](https://github.com/AdrianCabello)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCabello&layout=compact&theme=tokyonight)](https://github.com/AdrianCabello)
+
+[![Website](https://img.shields.io/badge/Website-adriancabello.dev-blue?style=flat-square&logo=google-chrome)](https://adriancabello.dev)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrian_Cabello-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/adrian-cabello)
 
 </div>
 
